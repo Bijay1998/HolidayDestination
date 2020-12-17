@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408469972506",
+    "project_id": "holiday-destination-7c306",
+    "storage_bucket": "holiday-destination-7c306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408469972506:android:1f3b23a782ac50a87153a3",
+        "android_client_info": {
+          "package_name": "com.example.holiday_destination"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408469972506-48ta9tt97enmdsrh80q5cetk0buln9n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_bXII9xLVDNfrcM7GUTaFpl4l-zaKpFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408469972506-48ta9tt97enmdsrh80q5cetk0buln9n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
